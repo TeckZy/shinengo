@@ -137,6 +137,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
   background: #ef6603;
+  text-decoration: none;
 }
 .navbar .dropdown ul {
   display: block;
@@ -251,6 +252,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
   color: #fff;
+  text-decoration: none;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
